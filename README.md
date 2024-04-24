@@ -7,7 +7,15 @@ Stephen Meyer argued in his well-written book "The Return of the God Hypothesis"
 ## [YouTube video 1](https://youtu.be/p4DxtBquiqo)
 
 
-# v8: The UK property market: To buy or not to buy
+# V8: The UK property market: To buy or not to buy
 This video explores the UK property market. What to expect given recent increases in interest rates? Has the Bank of England stopped rate increases, or is it just a short-term pause? Put differently, to buy or not to buy – this is the question. 
 
 ## [YouTube video 8](https://youtu.be/27UI7noV-9k)
+Elections have started in India. This video explores the Indian economy. We look at GDP per capita, adjustments, and India's share of the World Economy. In addition, inflation and debt are discussed. How did Modi's government do?
+
+# V9: Modi and the Economy: Data not Feelings
+Elections have started in India. This video explores the Indian economy. We look at GDP per capita, adjustments, and India's share of the World Economy. In addition, inflation and debt are discussed. How did Modi's government do? 
+
+## [YouTube video 9](https://youtu.be/7vLwFDvi_GE)
+
+## [IMF Data](https://www.imf.org/en/Publications/SPROLLs/world-economic-outlook-databases)
