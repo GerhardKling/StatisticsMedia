@@ -19,3 +19,12 @@ Elections have started in India. This video explores the Indian economy. We look
 ## [YouTube video 9](https://youtu.be/7vLwFDvi_GE)
 
 ## [IMF Data](https://www.imf.org/en/Publications/SPROLLs/world-economic-outlook-databases)
+
+# V10: Has foreign direct investment increased in India? Data not Feelings
+Elections have started in India. This video investigates whether foreign direct investment in India has increased. Does Modi's government make India more attractive to international investors? The answer might surprise you. Using data from UNCTAD, we dive into the data. Join me when we discover the truth behind the headlines.
+
+## [YouTube video 10](https://youtu.be/9eS6Ng90t9I)
+
+## [UN Trade & Development Data](https://unctadstat.unctad.org/datacentre/)
+
+
