@@ -27,4 +27,8 @@ Elections have started in India. This video investigates whether foreign direct 
 
 ## [UN Trade & Development Data](https://unctadstat.unctad.org/datacentre/)
 
+# V14: Are we better off?
+Welcome to the UK General Election special. In this video, we ask a simple question: Are we better off? We will explore UK household income and various measures of inequality. Well, the answer might surprise you. As always, data – not feelings. New Statesman stated, “We are poorer – but what are our politicians doing about it?” So, are we poorer? That will be our first question. Our second question concerns inequality, which seems to be getting worse. The Office for National Statistics (ONS) stated that “Alternative measures of inequality have increased to highest levels over the 10-year period to financial year ending 2022.” Is this really true? We shall see. We use the same data sources. All data are available online, and my GitHub repository provides all the code. Please feel free to get your hands dirty and explore the data. It's time to vote—it's time to analyse the data first.
+
+## [YouTube video 14](https://youtu.be/pFZmXgmxIqk)
 
