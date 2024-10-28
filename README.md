@@ -32,3 +32,8 @@ Welcome to the UK General Election special. In this video, we ask a simple quest
 
 ## [YouTube video 14](https://youtu.be/pFZmXgmxIqk)
 
+# V15: The US election: The economy
+We explore the US economy's long-term performance. How did Biden-Harris do? Using long-term time series from 1929 to 2024, we discuss real GDP growth, inflation, government debt, and trade. Is the US economy in good shape? Is debt sustainable? Is inflation under control? Does the government spend too much? Some answers might surprise you. Data—not feelings.
+
+## [YouTube video 15](https://youtu.be/Kpw0JSqOaXo)
+
