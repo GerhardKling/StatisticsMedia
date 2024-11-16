@@ -42,3 +42,9 @@ We explore illegal immigration in the US, which has been a significant issue dur
 
 ## [YouTube video 16](https://youtu.be/b8Ja9a2sDGM)
 
+# V17: Why are UK universities in financial difficulties?
+Why are UK universities struggling? We explore data from HESA and the Home Office, focusing on student numbers, the alleged impact of BREXIT, and changes to visa rules. Non-EU students have contributed substantially to past growth. Is this growth sustainable? Have operating costs increased? 
+
+## [YouTube video 17](https://youtu.be/ifq_6Gx7Rrw)
+
+
