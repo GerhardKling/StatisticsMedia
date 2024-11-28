@@ -1,4 +1,4 @@
-# StatisticsMedia
+# Statistics in the Media
 This repository contains code for the playlist "Statistics in the Media" on the YouTube channel YUNIKARN.
 
 # V1: A Response to Stephen Meyer's "The Return of the God Hypothesis" based on Statistics
