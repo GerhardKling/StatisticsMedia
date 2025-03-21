@@ -47,4 +47,7 @@ Why are UK universities struggling? We explore data from HESA and the Home Offic
 
 ## [YouTube video 17](https://youtu.be/ifq_6Gx7Rrw)
 
+# V18: Fact Checking Mainstream Media On UK House Prices
+Are first-time buyers getting older in the UK because of high house prices? Are mortgage payments consuming 40% of income, as suggested by the mainstream media? We will figure it out. Data - not feelings!
 
+## [YouTube video 18](https://youtu.be/rEWHRVtZVjo)
