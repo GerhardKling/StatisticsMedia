@@ -51,3 +51,8 @@ Why are UK universities struggling? We explore data from HESA and the Home Offic
 Are first-time buyers getting older in the UK because of high house prices? Are mortgage payments consuming 40% of income, as suggested by the mainstream media? We will figure it out. Data - not feelings!
 
 ## [YouTube video 18](https://youtu.be/rEWHRVtZVjo)
+
+# V19: Will AI Destroy Jobs in the UK?
+Using UK and international data, we explore the impact of AI and machine learning applications on the UK job market. Theoretically, innovation should increase employment. However, some jobs will disappear or decline. Is AI/ML similar to innovations in the past? We explore the major shifts in scientific outputs, graduate wages, and job market advantages. What is the best strategy?
+
+## [YouTube video 19](https://youtu.be/IgQ3ZJARDho)
