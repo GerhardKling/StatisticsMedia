@@ -56,3 +56,10 @@ Are first-time buyers getting older in the UK because of high house prices? Are 
 Using UK and international data, we explore the impact of AI and machine learning applications on the UK job market. Theoretically, innovation should increase employment. However, some jobs will disappear or decline. Is AI/ML similar to innovations in the past? We explore the major shifts in scientific outputs, graduate wages, and job market advantages. What is the best strategy?
 
 ## [YouTube video 19](https://youtu.be/IgQ3ZJARDho)
+
+# V20: Surprising Facts About Global Research Output Trends!
+This video examines the evolution of scientific outputs over time, highlighting the rise of China and India as global research superpowers. Will these trends continue? We investigate research intensity, quality, and patents. 
+
+## [YouTube video 20](https://youtu.be/D8qAn2gDT0Y)
+
+
